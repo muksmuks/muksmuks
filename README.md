@@ -10,7 +10,8 @@
 </br>
 </br>
 *NOTE: Top languages is a github metric of which languages i have the most code on github
-
+</br>
+</br>
 
 
 <a href="https://github.com/muksmuks/github-readme-stats">
