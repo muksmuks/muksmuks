@@ -6,14 +6,17 @@
 
 
 
+</br>
+</br>
+</br>
 *NOTE: Top languages is a github metric of which languages i have the most code on github
 
 
 
 <a href="https://github.com/muksmuks/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muksmuks&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muksmuks&show_icons=true&include_all_commits=true&theme=radical" alt="Mukesh's github stats" />
 </a>
 <a href="https://github.com/muksmuks/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muksmuks&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muksmuks&layout=compact&theme=radical" />
 </a>
 
