@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Insurance Fraud
 - 🌱 I’m currently learning DL, blender, pytorch
-- ⚡ Fun fact: If all jobs paid the same, I would have been a painter
+- ⚡ Fact: If all jobs paid the same, I would have been a painter
 
 
 
