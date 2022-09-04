@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently "Complex Decision Making Under Uncertainity"
+- 🔭 I’m currently working on "Complex Decision Making Under Uncertainity"
 - ⚡ Fact: If all jobs paid the same, I would have been a painter
 
 
